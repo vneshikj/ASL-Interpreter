@@ -1,0 +1,77 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# Rope
+.ropeproject
+
+# Django stuff:
+*.log
+*.pot
+
+# Sphinx documentation
+docs/_build/
+
+/models/datasets
+../.DS_Store
+/.DS_Store
+/models/dataset
+.DS_Store
+*.jpg
+*.png
+ML/modules/mnistDataset/sign_mnist_train.csv
+*.csv
+*.gz
+ML/modules/data/MNIST/raw/t10k-images-idx3-ubyte
+ML/modules/data/MNIST/raw/t10k-labels-idx1-ubyte
+ML/modules/data/MNIST/raw/train-images-idx3-ubyte
+ML/modules/data/MNIST/raw/train-labels-idx1-ubyte
+ML/modules/mnistDataset/sign_mnist_test/MNIST/MNIST/raw/t10k-images-idx3-ubyte
+ML/modules/mnistDataset/sign_mnist_test/MNIST/MNIST/raw/t10k-labels-idx1-ubyte
+ML/modules/mnistDataset/sign_mnist_test/MNIST/MNIST/raw/train-images-idx3-ubyte
+ML/modules/mnistDataset/sign_mnist_test/MNIST/MNIST/raw/train-labels-idx1-ubyte
+ML/modules/mnistDataset/sign_mnist_test/MNIST/raw/t10k-images-idx3-ubyte
+ML/modules/mnistDataset/sign_mnist_test/MNIST/raw/t10k-labels-idx1-ubyte
+ML/modules/mnistDataset/sign_mnist_test/MNIST/raw/train-images-idx3-ubyte
+ML/modules/mnistDataset/sign_mnist_test/MNIST/raw/train-labels-idx1-ubyte
+ML/modules/mnistDataset/sign_mnist_train/MNIST/raw/t10k-images-idx3-ubyte
+ML/modules/mnistDataset/sign_mnist_train/MNIST/raw/t10k-labels-idx1-ubyte
+ML/modules/mnistDataset/sign_mnist_train/MNIST/raw/train-images-idx3-ubyte
+ML/modules/mnistDataset/sign_mnist_train/MNIST/raw/train-labels-idx1-ubyte

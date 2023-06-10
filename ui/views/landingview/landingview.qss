@@ -1,0 +1,11 @@
+QPushButton {
+    background-repeat: none;
+    min-height: 0;
+    font-size: 80px;
+    border-radius: 10px;
+}
+
+QLabel{
+    font-weight: regular;
+    font-size: 40px;
+}
